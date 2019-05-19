@@ -1,0 +1,8 @@
+# Title: Record Your Desktop
+# Author: Tech Striker
+# Description: This will help you set up Cam Studio to record much small video sizes.
+# Version: 1
+# Last Modified: 05-18-2019
+# Location_of_the_Video:
+# Meta_data_for_YouTube: https://youtu.be/y3M_5QHsynI
+# Web_Site_For_Video: https://www.youtube.com/watch?v=y3M_5QHsynI
