@@ -18,7 +18,7 @@
 # Add your license here. Here is a good list of licenses, that you can use:
 # https://www.gnu.org/licenses/license-list.html
 
-# Start Your Lesson here
+# Start Your Script Here
 
 
 #EOF
