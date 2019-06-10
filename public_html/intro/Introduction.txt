@@ -1,0 +1,96 @@
+/*
+* Title: Examples
+* Author: Asher Simcha
+* Additional Authors: 
+* Filename: 
+* Description: Collect Learned Computer Languages and put them together.
+* Version: 
+* Date: 05-17-2019
+* Last Modified: 05-17-2019
+* Additional_Notes: 
+* Source: 
+* Additional_Sources: 
+* Credits: 
+* Additional Credits: 
+* Location_of_the_Video: 
+* Embed_YouTube: 
+* Website_For_Video: 
+*/	
+	
+	* warning: this is not meant for Production use.
+ 
+This web-site is to help developers collect there work in a single easy to use format.
+
+And to be able in a few clicks see syntax differences in the languages, and copy and paste
+the code as needed.
+Instead of struggling with the language just know the theory.
+if []; then
+
+fi
+or was it???
+if () {
+
+}
+
+I have found this to be the most frustrating part of cross programming! So I created this
+program to solve that very problem.
+
+All that you have to do is upload your files or directories with files in them according to 
+	the computer language that you using.
+
+This is not meant for Production use!
+This software is for Development Servers (aka Home Server, Personal Office Server).
+
+This program is in prototyping until further notice.
+
+The idea of the program is to add as many simple examples in a numbered format.
+	After that, all the examples can be label as to function or title.
+	
+The program has a built in search engine. 
+	It will open and search for a word or phrase that you are looking for,
+		it will display the line number(s),
+		display the line,
+		and a link to that page.
+	NOTES: The search does NOT search the whole site at one time. ONLY individual languages, one at a time. 
+			* For example to search for the function ""else"" in PHP, you first have to click on PHP, to
+			* search for PHP functions.
+	
+	# Still in design for multi-directories.
+
+To create a page just simple the 0000_Blank??? page to see the format
+The Word ''Description'' is very important and is used as a descriptor on the left side of the program
+	I would suggest refraining from using any special characters in your description to avoid any of them being erased.
+	Example when Using the word Description if you use a : like Description: it will erase the :
+	if you use // Description it will erase the //
+	if you use # Description it will erase the #
+	
+If you add a directory it will recognize it but search will not search it, (just for now...)
+
+If you add a picture it will show up as a link and will be displayed, this is good for schematics too.
+	file formats are: .jpg .jpeg .png .gif
+
+If a directory does not exist it will not display the computer language.
+	Example I only program in PHP,BASH,JavaScript,and HTML.
+	If only 4 folders are present that at the top links it will display.
+	Bash JavaScript HTML PHP
+	you will not see languages that you do not use, as log as the directory/folder does not exist.
+	
+If you add a Video to the folder '''videos''' and the programming language
+	example PHP video add to '''videos/\php
+	In your source code type in:
+	Location_of_the_video: nameofvideo.mp4
+	and it will play the video when you enter that page.
+	* file formats are .mp4 .flv
+
+if you add a youtube website url to:
+Website_For_Video: https://www.youtube.com/watch?v=y3M_5QHsynI
+
+also if you click share,
+Embed_YouTube: https://youtu.be/y3M_5QHsynI
+also if you click Embed Video, type
+Embed_YouTube: <iframe width="560" height="315" src="https://www.youtube.com/embed/y3M_5QHsynI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	
+
+
+
+

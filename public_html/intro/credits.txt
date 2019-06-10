@@ -1,0 +1,29 @@
+/*
+* Title: Credits
+* Author: Asher Simcha
+* Additional Authors: 
+* Filename: credits.txt
+* Description: This is the credits page.
+* Version: 
+* Date: 06-07-2019
+* Last Modified: 06-07-2019
+* Additional_Notes: 
+* Source: 
+* Additional_Sources: 
+* Credits: 
+* Additional Credits: 
+* Location_of_the_Video: 
+* Embed_YouTube: 
+* Website_For_Video: 
+*/
+
+We hope that you are enjoying this open source program. Just because it's free to use, does not mean that it is free to develop the program.
+
+This program has taken many years to think up, develop, and test. I have worked many hours creating this program to help the general community. By creating this help program it, fills a niche. When ever you want to search for a simple example of a program, you will notice that the leading search engines are focused on selling you something.
+
+The idea of a free and open source internet, is slipping through our fingers. If it's not profitable it's not worth a company to create it.
+
+Please feel free to follow me or contact me. 
+My contact and social networks are:
+
+
